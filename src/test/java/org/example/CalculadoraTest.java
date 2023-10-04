@@ -20,7 +20,7 @@ class CalculadoraTest {
 
     @Test
     void restar() {
-        assertEquals(2, calculadora.restar(6,4));
+        assertEquals(24, calculadora.restar(6,4));
     }
 
     @Test
